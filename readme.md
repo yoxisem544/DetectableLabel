@@ -36,5 +36,5 @@ aDetectableLabel.delegate = self
 ## that's it, we are ready to go.
 
 ## License
-`DetectableLabel` is released under an [MIT License][http://opensource.org/licenses/MIT]. See `LICENSE` for details.
+`DetectableLabel` is released under an [MIT License](http://opensource.org/licenses/MIT). See `LICENSE` for details.
 >**Copyright &copy; 2016-present David Lin / yoxisem544.**
